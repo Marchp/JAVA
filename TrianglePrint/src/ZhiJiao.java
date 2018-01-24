@@ -6,7 +6,7 @@ public class ZhiJiao {
 		{
 			for(int k=1;k<=i;k++)
 			{
-                System.out.print("*");
+                System.out.print(" * ");
             }			
 			System.out.println();
 		}

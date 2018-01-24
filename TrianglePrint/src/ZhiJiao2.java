@@ -6,11 +6,11 @@ public class ZhiJiao2 {
 		{
 			for(int j=5-i;j>=0;j--)
 			{
-				System.out.print(" ");
+				System.out.print("   ");
 			}
 			for(int k=1;k<=i;k++)
 			{
-				System.out.print("*");
+				System.out.print(" * ");
 			}
 			System.out.println();
 		}
