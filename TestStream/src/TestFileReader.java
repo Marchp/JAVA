@@ -6,7 +6,7 @@ public class TestFileReader {
 		int a=0;
 		FileReader fr=null;
 		try{
-			fr=new FileReader("F:/Eclipse/Workspace/CoreJava/src/BubbleSort.java");
+			fr=new FileReader("F:\\java-oxygen\\WorkSpace\\Sort\\src\\BubbleSort.java");
 			int num=0;
 			while((a=fr.read())!=-1){
 			System.out.println((char)a);

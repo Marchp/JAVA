@@ -7,7 +7,7 @@ public class TestFileInputStream {
 			FileInputStream in=null;
 		
 			try{
-				in=new FileInputStream("F:/Eclipse/Workspace/CoreJava/src/BubbleSort.java");
+				in=new FileInputStream("F:\\java-oxygen\\WorkSpace\\Sort\\src\\BubbleSort.java");
 			} catch (FileNotFoundException e){
 			System.out.println("找不到指定文件!");
 			System.exit(-1);
@@ -25,7 +25,6 @@ public class TestFileInputStream {
 			} catch (IOException e){
 			System.out.println("文件读取错误!");
 			System.exit(-1);
-			}
-			
+			}		
 		}
 }
