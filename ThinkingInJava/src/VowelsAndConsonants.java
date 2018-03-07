@@ -13,7 +13,7 @@ public class VowelsAndConsonants {
 			case 'u':System.out.println("vowel");
 			         break;
 			case 'y':
-			case 'W':System.out.println("sometimes a vowel");
+			case 'w':System.out.println("sometimes a vowel");
 			         break;
 			default :System.out.println("consonant");
 			}

@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+public class Sum {
+	public static void main(String []args)
+	{
+	    Scanner s=new Scanner(System.in);
+	    int n=s.nextInt();
+	    int sum=0;
+	    System.out.println("Enter n:");
+	    
+	    for(int i=1;i<2;i++) 
+	    {
+	    	   n=s.nextInt();
+	    }
+	    
+	    for(int j=1;j<=n;j++)
+	    {
+	    	sum=sum+j;
+	    }
+	    
+	    System.out.println("sum="+sum);
+	}
+
+}

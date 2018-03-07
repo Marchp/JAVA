@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class MaxSum {
+	
+	public static void main(String [] args)
+	{
+		Scanner s=new Scanner(System.in);
+		int t=0,n=0,i=0,j=0;
+		System.out.println("输入题目的个数:");
+		t=s.nextInt();
+		while(i<t)
+		{
+			System.out.print(n);
+			while(j<=n) 
+			{
+				System.out.print(s.nextInt());
+			}
+			
+		}
+		
+	}
+
+}

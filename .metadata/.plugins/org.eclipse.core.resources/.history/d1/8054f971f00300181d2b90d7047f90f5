@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class APlusBProblem {
+	public static void main(String [] args) 
+	{
+		Scanner s=new Scanner(System.in);
+		int a=15, b=52;
+		a=s.nextInt();
+		b=s.nextInt();
+		System.out.println(a+b);	
+	}
+
+}

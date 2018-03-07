@@ -1,0 +1,20 @@
+
+public class ZhiJiao3 {
+/**
+* print a triangle in the console,it's horn on the left form bottom
+* @name ZhiJiao3
+* @author Marchp  
+ * @version 24 January 2018
+*/
+	public static void main(String []args) 
+	{
+		for(int i=0;i<=5;i++)
+		{
+			for(int j=0;j<5-i;j++)
+			{
+				System.out.print(" * ");
+			}
+			System.out.println();
+		}		
+	}	
+}

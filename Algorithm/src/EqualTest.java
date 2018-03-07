@@ -41,7 +41,7 @@ public class EqualTest {
 	    boolean b2=((str1+str2)==str3);
 	    boolean b3=(str3==str4);
 	    
-	    System.out.println("\n----[str1==str2?]:"+b1+"\n----[(str1+str2)==str3?]:"+b2+"\n----[str3==str?]:"+b3);
+	    System.out.println("\n----[str1==str2?]:"+b1+"\n----[(str1+str2)==str3?]:"+b2+"\n----[str3==str4?]:"+b3);
 	    
 	    boolean a1=str1.equals(str2);
 	    boolean a2=(str1+str2).equals(str3);

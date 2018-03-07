@@ -26,6 +26,8 @@
 		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
 		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
 		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\March\Desktop\Eclipse\Workspace\Tetris\src\tetris"/>
+			<item value="C:\Users\March\Desktop\Eclipse\Workspace\Tetris\src"/>
 			<item value="C:\Users\March\Desktop\Eclipse\Workspace\EqualTest\src"/>
 			<item value="C:\Users\March\Desktop\Eclipse\Workspace\CoreJava\src"/>
 			<item value="C:\Users\March\Desktop\Eclipse\Workspace\ThinkingInJava\src"/>
